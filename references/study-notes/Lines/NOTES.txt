@@ -1,0 +1,16 @@
+LINES
+files: 116
+role: chat dividers
+
+frequent sizes:
+  1439x90 PNG x24
+  1006x72 PNG x8
+  800x80 GIF x7
+  1439x78 PNG x7
+  3264x226 PNG x3 (too tall — crop)
+  512x75 GIF x2
+  1000x50 PNG x2
+  1920x120 PNG x2
+
+default: 1400x80 PNG alpha, or 800x80 GIF loop
+max height target: 120px

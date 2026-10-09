@@ -1,0 +1,8 @@
+SHOP
+files: 0
+status: placeholder
+
+when filling:
+  header ~1000x300 PNG
+  icon 512x512 cart/bag
+  optional catalog tile 1920x1080

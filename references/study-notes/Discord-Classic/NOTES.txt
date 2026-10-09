@@ -1,0 +1,14 @@
+DISCORD CLASSIC
+files: 31
+  info/  13
+  packs/ 18
+
+sizes:
+  1500x500 PNG x3
+  512x512 PNG x3
+  2400x800 PNG x2
+  1920x1080 PNG x2
+  1400x502 PNG x2
+  3264x3264 PNG x2 (oversize logos/art)
+
+use: quiet wide info + geometric pack companions

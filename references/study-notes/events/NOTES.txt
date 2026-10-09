@@ -1,0 +1,9 @@
+EVENTS
+files: 18 PNG
+size: 1920x1080 all
+
+series:
+  Untitled118_*  dark metal + Arabic profile headline
+  1015_*         light lavender + فعاليات pill
+
+Discord scheduled event cover (in-app): 1600x640 — different asset from these catalog cards

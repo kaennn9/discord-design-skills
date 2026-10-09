@@ -1,0 +1,22 @@
+PACKS
+files: 202
+groups: 39 (message-id prefix)
+common group size: 4-6 assets
+role hits across groups: line 6, info 6, banner 5, welcome 4, logo 4, ticket 3, bot 3
+
+frequent sizes:
+- 512x512 PNG (icons) x20
+- 1920x1080 PNG/JPEG (banners)
+- 2400x514 JPEG (wide info)
+- 480x480 / 300x300 (small icons)
+- 1080x608, 1280x720 (welcome-ish)
+
+export defaults for new work:
+icon 512x512
+banner 1920x1080
+welcome 1280x720 transparent
+info 1800x600
+line 1400x80
+sheet 1920x1080
+
+chat display width ~550-600px — design larger, keep marks inward.

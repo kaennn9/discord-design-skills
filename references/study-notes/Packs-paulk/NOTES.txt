@@ -1,0 +1,11 @@
+PACKS-PAULK
+files: 14 PNG
+sizes:
+  1115x627 x5
+  736x414  x4
+  1000x562, 1200x675, 735x475, 735x440, 480x598
+
+purpose: client / store presentation of a full Discord pack
+not for: uploading into a Discord channel as-is
+
+preferred new export: 1920x1080 PNG sRGB

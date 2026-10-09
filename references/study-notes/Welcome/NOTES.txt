@@ -1,0 +1,13 @@
+WELCOME
+files: 51
+role: #welcome image for bots (ProBot, Welcomer, etc.)
+
+frequent sizes:
+  1280x720 PNG x6
+  756x430, 764x408, 722x406
+  448x224, 500x250 (too small — avoid)
+  some 3464x3464 squares (overkill)
+
+default export: 1280x720 PNG-24 alpha
+circle on the LEFT
+test against Discord dark #313338

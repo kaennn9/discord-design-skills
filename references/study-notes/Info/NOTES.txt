@@ -1,0 +1,14 @@
+INFO
+files: 60
+role: rules / about / announcement headers
+
+frequent sizes:
+  1203x467 PNG x3
+  3264x1020 PNG x3
+  2400x514 JPEG x2
+  4096x1365 PNG x2
+  1500x500 PNG x2
+  1080x370 PNG x2
+
+design default: 1800x600 or 2400x800, sRGB PNG
+center 50% reserved for overlay

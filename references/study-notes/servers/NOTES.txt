@@ -1,0 +1,12 @@
+SERVERS
+files: 61 PNG
+size: 1920x1080 all
+
+series:
+  Untitled118_*  dark metal catalog
+  1015_*         light periwinkle catalog, Arabic pills
+
+inner identity sizes to design:
+  icon 512x512 circle
+  banner 1920x1080 16:9
+  listing 1920x1080

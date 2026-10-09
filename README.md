@@ -26,7 +26,7 @@ cd discord-skills
 **macOS / Linux:**
 
 ```bash
-git clone https://github.com/kaennn9/discord-skills.git
+git clone https://github.com/YOUR_USER/discord-skills.git
 cd discord-skills
 chmod +x install.sh
 ./install.sh user
@@ -91,7 +91,7 @@ git init -b main
 git add .
 git commit -m "Add Discord pack and server design skills"
 # create a public GitHub repo, then:
-git remote add origin https://github.com/kaennn9/discord-skills.git
+git remote add origin https://github.com/YOUR_USER/discord-skills.git
 git push -u origin main
 ```
 
